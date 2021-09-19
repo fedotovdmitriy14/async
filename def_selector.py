@@ -1,9 +1,8 @@
 import socket
 import selectors
 
+
 selector = selectors.DefaultSelector()
-
-
 
 
 def server():
